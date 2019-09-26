@@ -1,3 +1,4 @@
 Name: Patrick
 Age: 26
 Favourite colour: blue
+Current coding level: rookie
